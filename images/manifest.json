@@ -7,5 +7,168 @@
             "All images loaded in bartleyje/test project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://bartleyje.github.io/test/images/LeeMaps_0001_Sevastopol/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "LeeMaps_0001_Sevastopol"
+                ]
+            },
+            "height": 538,
+            "width": 804,
+            "items": [
+                {
+                    "id": "https://bartleyje.github.io/test/images/LeeMaps_0001_Sevastopol/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://bartleyje.github.io/test/images/LeeMaps_0001_Sevastopol/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://bartleyje.github.io/test/images/LeeMaps_0001_Sevastopol/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 26,
+                                                "height": 17
+                                            },
+                                            {
+                                                "width": 51,
+                                                "height": 34
+                                            },
+                                            {
+                                                "width": 101,
+                                                "height": 68
+                                            },
+                                            {
+                                                "width": 201,
+                                                "height": 135
+                                            },
+                                            {
+                                                "width": 402,
+                                                "height": 269
+                                            },
+                                            {
+                                                "width": 804,
+                                                "height": 538
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 804,
+                                        "@id": "https://bartleyje.github.io/test/images/LeeMaps_0001_Sevastopol",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 538,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://bartleyje.github.io/test/images/LeeMaps_0001_Sevastopol/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://bartleyje.github.io/test/images/LeeMaps_0002_VeraCruz/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "LeeMaps_0002_VeraCruz"
+                ]
+            },
+            "height": 804,
+            "width": 529,
+            "items": [
+                {
+                    "id": "https://bartleyje.github.io/test/images/LeeMaps_0002_VeraCruz/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://bartleyje.github.io/test/images/LeeMaps_0002_VeraCruz/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://bartleyje.github.io/test/images/LeeMaps_0002_VeraCruz/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 17,
+                                                "height": 26
+                                            },
+                                            {
+                                                "width": 34,
+                                                "height": 51
+                                            },
+                                            {
+                                                "width": 67,
+                                                "height": 101
+                                            },
+                                            {
+                                                "width": 133,
+                                                "height": 201
+                                            },
+                                            {
+                                                "width": 265,
+                                                "height": 402
+                                            },
+                                            {
+                                                "width": 529,
+                                                "height": 804
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 529,
+                                        "@id": "https://bartleyje.github.io/test/images/LeeMaps_0002_VeraCruz",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 804,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://bartleyje.github.io/test/images/LeeMaps_0002_VeraCruz/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

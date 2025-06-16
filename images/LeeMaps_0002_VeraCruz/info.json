@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 17,
+    "height" : 26
+  }, {
+    "width" : 34,
+    "height" : 51
+  }, {
+    "width" : 67,
+    "height" : 101
+  }, {
+    "width" : 133,
+    "height" : 201
+  }, {
+    "width" : 265,
+    "height" : 402
+  }, {
+    "width" : 529,
+    "height" : 804
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 529,
+  "@id" : "https://bartleyje.github.io/test/images/LeeMaps_0002_VeraCruz",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 804
+}
